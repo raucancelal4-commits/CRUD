@@ -60,8 +60,6 @@ def confirmar(pregunta):
 
 
 def es_email_valido(texto):
-    """Aplica una validación sencilla de formato para un correo electrónico."""
-    # Validación mínima: un @, algo antes, algo después y un punto al final
     texto = texto.strip()
     if texto.count("@") != 1:
         return False
