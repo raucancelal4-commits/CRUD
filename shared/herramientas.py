@@ -60,6 +60,7 @@ def confirmar(pregunta):
 
 
 def es_email_valido(texto):
+    """Validación sencilla: un solo @, algo antes y un punto en el dominio (sin terminar en punto)."""
     texto = texto.strip()
     if texto.count("@") != 1:
         return False

@@ -1,19 +1,15 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "nombre": "Ronny",
     "apellido": "Aucancela",
-    "email": "raucancelal4@gmail.com",
-    "carnet": "2 semestre",
+    "email": "raucancelal4@unemi.edu.ec",
+    "carnet": "Avanzado",
     "telefono": "0998138945",
     "ciudad": "Naranjito",
-    "notas": {
-      "Estructura De Datos": [
-        15.0
-      ]
-    },
+    "notas": {},
     "materias": [
-      "Estructura De Datos"
+      "Probabilidad"
     ]
   }
 ]
