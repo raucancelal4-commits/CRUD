@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ronny",
+    "apellido": "Aucancela",
+    "email": "raucancelal4@gmail.com",
+    "carnet": "2 semestre",
+    "telefono": "0998138945",
+    "ciudad": "Naranjito",
+    "notas": {
+      "Estructura De Datos": [
+        15.0
+      ]
+    },
+    "materias": [
+      "Estructura De Datos"
+    ]
+  }
+]
