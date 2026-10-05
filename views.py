@@ -15,7 +15,7 @@ CAMPO_OBLIGATORIOS = ("nombre", "apellido", "email", "carnet")
 CAMPOS_BUSCABLES = ("nombre", "apellido", "email", "telefono", "ciudad")
 
 
-# ===================== AYUDAS INTERNAS =====================
+
 
 def emails_registrados(excepto_id=None):
     """CONJUNTO con los emails ya usados (en minúscula). Sirve para detectar duplicados.
